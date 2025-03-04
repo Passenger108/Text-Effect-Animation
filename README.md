@@ -3,7 +3,7 @@
 A smooth **Auto Text Typing Animation** built using **HTML, CSS, and JavaScript**.
 
 ## 🌐 Live Demo
-🔗 [View Live Project](#) *(https://passenger108.github.io/Text-Effect-Animation/)*
+🔗 **[Click here to view the live project!](https://passenger108.github.io/Clock/)**  
 
 ## 📜 Features
 ✅ **Dynamic Text Typing Effect** - Cycles through different words automatically.  
